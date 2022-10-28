@@ -4,3 +4,4 @@
 3) Paste the connectionstring in TelemetryConfiguration instance.
 Eg., configuration.ConnectionString = "InstrumentationKey=b0f0b144-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx;IngestionEndpoint=https://westus-9.in.app....";
 4) All set, execute..
+5) Check attached image for reference
